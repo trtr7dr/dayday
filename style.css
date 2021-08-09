@@ -1,0 +1,31 @@
+#date, #time{
+    display: none;
+}
+
+#dayday, #dayday1, #dayday2, #daydayh{
+    display: none;
+}
+
+img {
+    box-shadow: 1px 1px 14px #c9c9c9;
+
+}
+
+li {
+    text-align: center;
+}
+
+img {
+    margin: 3%;
+    max-height: 80vh;
+    width: auto;
+        max-width: 94%;
+    text-align: center;
+    object-fit: contain;
+}
+
+.ftr{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 20px;
+}
